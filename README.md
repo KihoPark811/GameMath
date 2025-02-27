@@ -1,1 +1,1 @@
-# Game-Math
+# Game Math
